@@ -1,0 +1,12 @@
+#忽略配置文件
+/.vscode/
+/insdata/
+
+/packages/map_recv_current_interface/log/*
+
+/*.tar.gz
+/*.zip
+/Dockerfile
+
+__pycache__/
+*.py[cod]
